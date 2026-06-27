@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/zweite-chance-fur-uns/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Zweite Chance für uns](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/zweite-chance-fur-uns/) |
+| **Get License** | [Obtain a Music License for Zweite Chance für uns](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/zweite-chance-fur-uns/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Zweite Chance für uns, Baby, steig in den AMG
+> Die Skyline verschwimmt, wenn ich tief in deine Augen seh'
+> Lass die andern doch reden, wir jagen den Kick heut Nacht
+> Du bist mein Vibe, hast das Feuer in mir entfacht
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
