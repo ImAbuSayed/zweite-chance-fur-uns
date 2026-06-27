@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Zweite Chance für uns
+
+This log tracks the cryptographic history and versioning for the song **Zweite Chance für uns** (zweite-chance-fur-uns).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-28T00:33:17.908456 | `v1` | `a61134b6d37a13d040a51c9750394a408769f15a0a0a1785ac3ec51fdda36a87` | `b358c2213505ddc25471d83e6a286466f55a1e943e6909f2edca6ae8e7ff8e5d` | `2026-06-28_zweite-chance-fur-uns-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
