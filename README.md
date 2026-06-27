@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/zweite-chance-fur-uns/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Zweite Chance für uns](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/zweite-chance-fur-uns/) |
+| **Get License** | [Music Rights & Licensing for Zweite Chance für uns](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/zweite-chance-fur-uns/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/4522)
 
 ---
 
